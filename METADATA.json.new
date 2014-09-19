@@ -1,0 +1,32 @@
+{
+  "name": "Bentham",
+  "designer": "Ben Weiner",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Serif",
+  "size": 31267,
+  "fonts": [
+    {
+      "name": "Bentham",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Bentham-Regular.ttf",
+      "postScriptName": "BenthamRegular",
+      "fullName": "Bentham",
+      "copyright": "This font drawn by, and copyright, Ben Weiner, 1999-2000. Modifications for version 2.0 copyright Ben Weiner, 2008. Licensed under the Open Font License (http://scripts.sil.org/OFL). See accompanying license and FONTLOG."
+    },
+    {
+      "name": "Bentham",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Bentham-TTF.ttf",
+      "postScriptName": "Bentham-Regular",
+      "fullName": "Bentham",
+      "copyright": "Copyright (c) 1999-2010, Ben Weiner (ben@readingtype.org.uk), with Reserved Font Name Bentham."
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2010-11-30"
+}
